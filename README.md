@@ -22,7 +22,7 @@ Hiccups Legacy: Fury Spawn Fix — это небольшой addon для Hiccup
 
 ### Установка
 1. Установить Forge 1.20.1
-2. Установить Hiccups Legacy
+2. Установить Hiccups Legacy 2.0.0
 3. Положить этот addon в папку `mods`
 
 ### Важно
@@ -53,7 +53,7 @@ The goal of this fix is to keep furies rare, but actually encounterable in norma
 ### Requirements
 - Minecraft 1.20.1
 - Forge
-- Hiccups Legacy
+- Hiccups Legacy 2.0.0
 
 ### Installation
 1. Install Forge 1.20.1
